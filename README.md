@@ -1,1 +1,1 @@
-# PrimeSbaxend.github.io
+# primesbaxend.github.io
