@@ -1,5 +1,5 @@
 body {
-  Background-color: #ADD8E6;
+  Background-color: EDEEF0;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%
 }
@@ -9,8 +9,16 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #808080;
   border-bottom: 1px solid #808080;
-  Background-color: rgb(115, 147, 179)
+  Background-color: #204F96
 }
 h1 {
   text-align: center;
+}
+.cards{
+  border: 1px solid none;
+  border-radius:15px;
+  box-shadow: 0.5px 2px 5px 0.5px gray;
+  padding:5px 5px 10px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
