@@ -23,6 +23,6 @@ h1 {
   margin-bottom: 10px;
 }
 .pictures{
-width: auto;
-border: 1px solid none;
+max-width: 100%;
+border: 6px solid red;
 }
